@@ -37,7 +37,7 @@ export default function Usestates(probs) {
   return (
     <>
       <div className="text-center bg-danger container rounded-3 pb-2 pt-2 mt-2 h3">
-        <p className="text-white p-0 m-0">welcome to React page</p>
+        <p className="text-white p-0 m-0">welcome to Textbox</p>
       </div>
       <div className="container mt-3 pt-2 pb-2 ps-5 text-white rounded-2 ">
         <div className="mt-3">
